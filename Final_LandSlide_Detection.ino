@@ -37,7 +37,7 @@ void setup() {
   pinMode(13, OUTPUT);
   delay(1000);
   lcd.setCursor(0, 0);
-  lcd.print("IRRIGATION");
+  lcd.print("LandSlide Detection");
   lcd.setCursor(0, 1);
   lcd.print("SYSTEM IS ON");
     lcd.print("");
