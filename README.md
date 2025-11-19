@@ -1,0 +1,1 @@
+A repo for some of my prduino projects I have worked. To run the files, place the file in a folder with same name and upload it to arduino via Arduino IDE. pin out and in instructions are included inn the code.
